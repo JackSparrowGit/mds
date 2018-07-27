@@ -177,5 +177,3 @@ pagehelper:
 logging:
   level:
     com.baicang: debug
-		
-  
